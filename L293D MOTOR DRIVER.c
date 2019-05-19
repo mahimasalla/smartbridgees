@@ -1,9 +1,3 @@
-/*
- * L293D MOTOR DRIVER.c
- *
- * Created: 15-05-2019 14:13:52
- * Author : Mahima
- */ 
 #ifdef F_CPU
 #define F_CPU
 #endif
