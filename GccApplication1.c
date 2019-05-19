@@ -1,9 +1,3 @@
-/*
- * GccApplication1.c
- *
- * Created: 09-05-2019 15:10:37
- * Author : Mahima
- */ 
 #ifndef F_CPU
 #define F_CPU 1600000UL
 #endif
